@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169120890377",
+    "firebase_url": "https://flutter-app-41d2a.firebaseio.com",
+    "project_id": "flutter-app-41d2a",
+    "storage_bucket": "flutter-app-41d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169120890377:android:eb6bebede55966d72302d8",
+        "android_client_info": {
+          "package_name": "com.probaflutter.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169120890377-g71bgsg39qiu9jqbeqbfpmedlcqu56pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQ0hFzBhkMvKZu99QfDVDIDBHy50kMIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169120890377-g71bgsg39qiu9jqbeqbfpmedlcqu56pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
